@@ -1,5 +1,6 @@
 # **Booking Website**
 ![index-preview](https://github.com/user-attachments/assets/b08ccef1-469b-4c3e-8cbf-8cc301143c15)
+Visit the page(https://shashank452.github.io/Responsive_designing/)
 
 This project is a simple booking website that allows users to explore and book various travel services such as hotels, buses, trains, and flights. The design incorporates a clean and modern UI with a background image, a responsive layout, and hover effects for interactivity.
 
